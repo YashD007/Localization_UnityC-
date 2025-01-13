@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Localization_UnityC_.sln"
+    "dotnet.defaultSolution": "Localization_UnityC-.sln"
 }
