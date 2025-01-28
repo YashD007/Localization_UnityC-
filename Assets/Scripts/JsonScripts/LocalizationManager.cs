@@ -61,7 +61,9 @@ public class LocalizationManager : MonoBehaviour
     IEnumerator LoadJsonLanguageData()
     {
         CheckFileExist();
+
         yield return new WaitUntil(() => _IsFileFound);
+
         _loadedData = JsonUtility.FromJson<LocalizationData>(LOADED_JSON_TEXT);
         _localizedDictionary = new Dictionary<string, string>(_loadedData.items.Count);
         _loadedData.items.ForEach(item => 
@@ -83,14 +85,63 @@ public class LocalizationManager : MonoBehaviour
     {
         if (File.Exists(FULL_PATH_TEXT_FILE))
         {
-            _IsFileFound = true;
-            LOADED_JSON_TEXT = File.ReadAllText(FULL_PATH_TEXT_FILE);
+            GetUrlFileText();
+            StartCoroutine(CopyFileFromWeb(URL));
         }
         else
         {
-            _IsFileFound = false;
-            Debug.LogError("File not found");
+            LoadFileContent();
         }
         
+    }
+
+    private void GetUrlFileText()
+    {
+        switch (LANGUAGE_CHOOSE)
+        {
+           case LocaleApplication.EN:
+                URL = "file:///C:/Users/yashd/OneDrive/Desktop/Json.EN.Txt";
+                break;
+                case LocaleApplication.PT:
+                URL = "file:///C:/Users/yashd/OneDrive/Desktop/Json.PT.Txt";
+                break;
+                default:
+                URL = "file:///C:/Users/yashd/OneDrive/Desktop/Json.EN.Txt";
+                break;
+        }
+    }
+
+    IEnumerator CopyFileFromWeb(string localurl)
+    {
+        UnityWebRequest www = UnityWebRequest.Get(localurl);
+        yield return www.SendWebRequest();
+
+        if(www.isNetworkError || www.isHttpError)
+        {
+            Debug.LogError(www.error);
+            Debug.LogWarning("we try a Second Attempt");
+            CopyFileFromResources();
+            yield break;
+        }
+
+        LOADED_JSON_TEXT= www.downloadHandler.text;
+        File.WriteAllText(FULL_PATH_TEXT_FILE, LOADED_JSON_TEXT);
+        StartCoroutine (WaitCreationFile());
+        
+    }
+
+    private void LoadFileContent() 
+    {
+        
+    }
+
+    private void CopyFileFromResources()
+    {
+        
+    }
+
+    IEnumerator WaitCreationFile()
+    {
+        yield return null;
     }
 }
