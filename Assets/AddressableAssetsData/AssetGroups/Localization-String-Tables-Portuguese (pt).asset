@@ -16,14 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 70337ab6cd8d73944a3227a6f3bce1a5
-  m_SerializeEntries:
-  - m_GUID: 1d71daccb79b3b042b0d6d59c2b8af6a
-    m_Address: SringExampleTable_pt
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-pt
-    - Preload
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: da670414f322b5841b7677ccf7353333, type: 2}
   m_SchemaSet:

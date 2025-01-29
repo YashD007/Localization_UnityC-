@@ -6,6 +6,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UIElements;
 using System.Net.NetworkInformation;
+using Unity.VisualScripting;
 
 public class LocalizationManager : MonoBehaviour
 {
@@ -125,7 +126,9 @@ public class LocalizationManager : MonoBehaviour
         }
 
         LOADED_JSON_TEXT= www.downloadHandler.text;
+        Debug.Log("We Copy the file on a string");
         File.WriteAllText(FULL_PATH_TEXT_FILE, LOADED_JSON_TEXT);
+        Debug.Log("We Write on The Streaming Assets Folder");
         StartCoroutine (WaitCreationFile());
         
     }
@@ -142,6 +145,42 @@ public class LocalizationManager : MonoBehaviour
 
     IEnumerator WaitCreationFile()
     {
-        yield return null;
+
+        FileInfo  myFile = new FileInfo(FULL_PATH_TEXT_FILE);
+        float timeOut = 0.0f;
+
+        while(timeOut < 5.0f && !IsFileFinishCreate(myFile))
+        {
+            timeOut += Time.deltaTime;
+            yield return null;
+        }
+        Debug.Log("File Created Successfully");
     }
+
+    private bool IsFileFinishCreate(FileInfo file)
+    {
+
+        FileStream stream = null;
+        try
+        {
+            stream = file.Open(FileMode.Open, FileAccess.ReadWrite, FileShare.None);
+        }
+        catch (IOException)
+        {
+            _IsFileFound = true;
+            Debug.Log("File Found Successfully");
+            return true;
+        }
+        finally
+        {
+            if(stream != null)
+            {
+                stream.Close();
+            }
+        }
+        //File Not found
+        _IsFileFound = false;
+        return true;
+    }    
+     
 }
