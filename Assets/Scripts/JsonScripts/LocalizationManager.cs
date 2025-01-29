@@ -100,13 +100,13 @@ public class LocalizationManager : MonoBehaviour
         switch (LANGUAGE_CHOOSE)
         {
            case LocaleApplication.EN:
-                URL = "file:///C:/Users/yashd/OneDrive/Desktop/Json.EN.Txt";
+                URL = "https://github.com/YashD007/Localization_UnityC-/blob/main/Assets/Resources/Json.EN.Txt";
                 break;
                 case LocaleApplication.PT:
-                URL = "file:///C:/Users/yashd/OneDrive/Desktop/Json.PT.Txt";
+                URL = "https://github.com/YashD007/Localization_UnityC-/blob/main/Assets/Resources/Json.PT.Txt";
                 break;
                 default:
-                URL = "file:///C:/Users/yashd/OneDrive/Desktop/Json.EN.Txt";
+                URL = "https://github.com/YashD007/Localization_UnityC-/blob/main/Assets/Resources/Json.EN.Txt";
                 break;
         }
     }
