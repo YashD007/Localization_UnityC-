@@ -1,9 +1,0 @@
-{
-    "Items" :[
-
-        {
-            "Key":"This_Is_My_First_Key",
-            "'value":"Mumbai - dreams aren’t made here, they are carved out. The speed at which this city moves leaves the world far behind. Only in Mumbai is every man the hero of his own journey, written in the gullies of the city. Every gully is an arena for victory and defeat, where each passing moment is an opportunity to make a move and where every move tells a new story."
-        }
-    ]
-}
