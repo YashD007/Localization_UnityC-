@@ -1,0 +1,794 @@
+{ "Por" :[
+    {
+        "Sr": 1,
+        "Cutscene/In-Game": "Intro Cutscene",
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Mumbai – Aqui os sonhos não são sonhados, eles são construídos. A velocidade com que esta cidade se move deixa o mundo para trás. Somente em Mumbai cada homem é o herói de sua própria jornada, escrita nos vilarejos da cidade. Cada beco é uma arena de vitória e derrota, onde cada momento que passa é uma oportunidade para fazer um movimento e onde cada movimento conta uma nova história."
+    },
+    {
+        "Sr": "During this part of the intro narration, the camera will switch to shots of the people of Mumbai going about their lives during the day.",
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": null
+    },
+    {
+        "Sr": 2,
+        "Cutscene/In-Game": "Intro Cutscene",
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "E só em Mumbai é que as maiores histórias têm o menor dos começos. Os sonhos não são apenas visualizados aqui, eles são conquistados com vitória. E essas histórias começam nestes mesmos becos, onde um pequeno passo às vezes, pode mudar o destino deste mundo."
+    },
+    {
+        "Sr": 3,
+        "Cutscene/In-Game": "Intro Cutscene",
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "E dentro desses becos está Raghu – um novo ator na cidade, repleto de ambições de riqueza, poder e reputação. Um jogador como Raghu anseia por conflitos nos becos de Mumbai. Pois com cada conflito surge uma nova oportunidade."
+    },
+    {
+        "Sr": 4,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Raghu",
+        "Action": "on the phone",
+        "Dialogue": "Jimmy, onde você está, mano? Cheguei na estação."
+    },
+    {
+        "Sr": 4,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Voiceover",
+        "Dialogue": "Relaxe irmão. Estou na barraca de chá perto da estação. Venha, tem um pouco de Masala Chai  esperando por você."
+    },
+    {
+        "Sr": 5,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Jimmy",
+        "Action": "Waves at Raghu",
+        "Dialogue": "Raghu! Aqui!"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Jimmy",
+        "Action": null,
+        "Dialogue": "Raghu! Você parece muito confiante! Qual é a de hoje, herói?"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Laughing",
+        "Dialogue": "Mano Jimmy, você é o herói! Mas eu também quero ser um herói, mano!"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Teasing",
+        "Dialogue": "Deixe que o seu mano aqui transforme você em um herói, é só esperar e ver… Mas primeiro, vamos tomar o Masala Chai"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Gives a bundle of tickets to Raghu",
+        "Dialogue": "Ouça irmão, essa é a sua parada do dia. Algo especial - ingressos de cambista . O cinema está cheio e as pessoas vão pagar caro por isso. Você não encontrará nenhum trabalho mais estimulante no mercado hoje!"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Grinning, Intrigued",
+        "Dialogue": "Como você conseguiu esses ingressos? Que truque você fez, mano Jimmy?"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Winking",
+        "Dialogue": "Minha fonte é sólida, Raghu! Venda esses ingressos perto do teatro. Encontre alguns românticos desesperados e fala pra eles comprarem os ingressos! O povo ficará feliz e nós também!"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Excited",
+        "Dialogue": "Mano Jimmy, poderíamos ganhar um bom dinheiro com isso! Quanto você calcula?"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Enthusiastic",
+        "Dialogue": "Venda os ingressos pelo dobro do preço! Quanto mais você vender, mais ganharemos! Você tem o cérebro e eu os recursos, o resto deixamos para o povo. O dinheiro cairá direto em nossas mãos!"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": null,
+        "Dialogue": "Entendi! E se a gente for pego?"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Pats Raghu on the back",
+        "Dialogue": "Aqueles que assumem riscos tornam-se heróis. Todos os outros são supérfluos! Se você não fizer nada, de que outra forma você ganhará e de que outra forma você gastará?"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Confident, Pumped",
+        "Dialogue": "Mano Jimmy, espere e veja! Vou vender todos esses ingressos. Se eu não conseguir vender um único ingresso, você pode mudar meu nome. Meu sangue tá fervendo, mal posso esperar pra começar!"
+    },
+    {
+        "Sr": 6,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Grinnning",
+        "Dialogue": "Esse é o espírito! Os sonhos são vendidos nos becos desta cidade. E alguém como você sabe vender esses sonhos! Agora, mãos à obra!"
+    },
+    {
+        "Sr": 7,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Raghu",
+        "Action": "Gives tickets to customers",
+        "Dialogue": "Pegue seus ingressos! Assentos na primeira fila a 5 rúpias cada. Um pouco de romance diante de seus olhos, pra você e sua garota! Apresse-se, antes que esgotem!"
+    },
+    {
+        "Sr": 7,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": "Quer alguns ingressos de primeira classe? 5 rúpias cada. Assentos dignos de reis!"
+    },
+    {
+        "Sr": 7,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": "Aqui, sente-se em alguns lugares na ponta - um local agradável e legal para um pouco de romance. 5 rúpias cada, um desconto especial já que você está com sua garota!"
+    },
+    {
+        "Sr": 8,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Police Constable",
+        "Action": "Points at Raghu",
+        "Dialogue": "Ei! Você está vendendo ingressos! Pare!"
+    },
+    {
+        "Sr": 8,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Mocks while Running",
+        "Dialogue": "Não há tempo a perder. Hora de voar. Os ingressos estão vendidos e o dinheiro está no meu bolso… hahaha, prenda-me se for capaz!"
+    },
+    {
+        "Sr": 9,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Police Constable",
+        "Action": "Chasing Raghu on foot",
+        "Dialogue": "Ei! Pare!"
+    },
+    {
+        "Sr": 9,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": "Pare de correr idiota!"
+    },
+    {
+        "Sr": 9,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": "O quê você tá fazendo? Pare!"
+    },
+    {
+        "Sr": 9,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": "Catches Raghu",
+        "Dialogue": "Eu vou te levar pra delegacia, vacilão!"
+    },
+    {
+        "Sr": 10,
+        "Cutscene/In-Game": "In-Game Call",
+        "Speaker": "Jimmy (VO)",
+        "Action": null,
+        "Dialogue": "Você ainda tá respirando? Ouvi dizer que você estava sendo perseguido pela polícia."
+    },
+    {
+        "Sr": 10,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Panting from escape",
+        "Dialogue": "Mano Jimmy, não posso ser pego facilmente. Eu sou o rei das ruas, lembra?"
+    },
+    {
+        "Sr": 10,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy (VO)",
+        "Action": "Chuckling",
+        "Dialogue": "Sim, você voa como uma pipa! Agora pegue uma bebida e me encontre no local de sempre."
+    },
+    {
+        "Sr": 10,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Grinning",
+        "Dialogue": "Entendido, mano Jimmy! Vou pegar uma garrafa da nossa boa e velha bebida e vou direto pra lá."
+    },
+    {
+        "Sr": 11,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "À noite, nesta cidade, cada pessoa faz um movimento. Para alguns, é uma refeição duas vezes ao dia, enquanto para outros é uma questão de vida ou morte. Esta noite, Raghu também pretende agir. Se isso cairá a seu favor ou se levará à sua ruína, só o tempo dirá."
+    },
+    {
+        "Sr": 11,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "to the wineshop owner",
+        "Dialogue": "Senhor, me dê uma daquelas garrafas de bebida. Esta noite estou com vontade de me divertir!"
+    },
+    {
+        "Sr": 11,
+        "Cutscene/In-Game": null,
+        "Speaker": "Local Goon 1",
+        "Action": "Threatens the wineshop owner",
+        "Dialogue": "E ae, patrão! Ganhando muito, né? Estamos aqui pra coletar dinheiro de proteção. Se você não pagar, vamos destruir todo esse lugar, seu velho!"
+    },
+    {
+        "Sr": 11,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Steps in, addresses the goons",
+        "Dialogue": "Ei, herói! Fale com os mais velhos com respeito! Ele é um idoso, entendeu?"
+    },
+    {
+        "Sr": 11,
+        "Cutscene/In-Game": null,
+        "Speaker": "Local Goon 1",
+        "Action": null,
+        "Dialogue": "E quem diabos é você pra falar com a gente assim?"
+    },
+    {
+        "Sr": 11,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Points to the goons",
+        "Dialogue": "Eu sou seu PAI, sou o PAI deles, sou o PAI de toda essa área! Vou te mostrar isso agora!"
+    },
+    {
+        "Sr": 12,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Local Goon 1",
+        "Action": "Dialogue Barks to Raghu",
+        "Dialogue": "Vamos colocar você no seu lugar!"
+    },
+    {
+        "Sr": 12,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": "O bastardo se acha!"
+    },
+    {
+        "Sr": 12,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": "Vamos rasgar a sua boca!"
+    },
+    {
+        "Sr": 12,
+        "Cutscene/In-Game": null,
+        "Speaker": "Local Goon 1",
+        "Action": "Defeats Raghu",
+        "Dialogue": "Pensa que você é especial, né? Filho da puta"
+    },
+    {
+        "Sr": 12,
+        "Cutscene/In-Game": null,
+        "Speaker": "Local Goon 2",
+        "Action": "Defeats Raghu",
+        "Dialogue": "Pensa que você é especial, né? Filho da puta"
+    },
+    {
+        "Sr": 12,
+        "Cutscene/In-Game": null,
+        "Speaker": "Local Goon 3",
+        "Action": "Defeats Raghu",
+        "Dialogue": "Pensa que você é especial, né? Filho da puta"
+    },
+    {
+        "Sr": 13,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Crowd",
+        "Action": "Cheering in Unison",
+        "Dialogue": "Vida Longa ao mano Raghu! Vida Longa ao mano Raghu!"
+    },
+    {
+        "Sr": 13,
+        "Cutscene/In-Game": null,
+        "Speaker": "Wineshop Owner",
+        "Action": "Gives imported liquor to Raghu",
+        "Dialogue": "Esse sim é um homem de verdade! Esqueça aquela bebida nacional. Aqui está uma garrafa \nde importado, como forma de agradecimento."
+    },
+    {
+        "Sr": 13,
+        "Cutscene/In-Game": null,
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Esta não foi apenas uma demonstração de força de Raghu, foi também uma demonstração de seu valor. Mas agora começam os verdadeiros jogos. A noite é uma criança e Raghu tem mais movimentos a fazer."
+    },
+    {
+        "Sr": 14,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Jimmy",
+        "Action": "Grinning, Teasing",
+        "Dialogue": "Oi Raghu! Você ainda está vivo? Estava ficando preocupado com você. Agora me diga o que está\npor vir."
+    },
+    {
+        "Sr": 14,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Hesitant smirking",
+        "Dialogue": "Mano Jimmy, há algo acontecendo lá fora. Mas ainda não posso falar sobre isso. Vai demorar um pouco, mas tudo será resolvido a tempo."
+    },
+    {
+        "Sr": 14,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Leans in seriously",
+        "Dialogue": "Ouça Raghu, quando você guarda seus segredos para si, é isso que me preocupa. Tenha cuidado! Um movimento errado e tudo estará perdido."
+    },
+    {
+        "Sr": 14,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "Brushes it off",
+        "Dialogue": "Não fique tenso, mano Jimmy. Tudo está sob controle. É só um probleminha, mas vai dar tudo certo. Você vai ver!"
+    },
+    {
+        "Sr": 14,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "laughing curiously",
+        "Dialogue": "Sim, mas lembre-se que Raheem Khan será o anfitrião do torneio de jogos de tabuleiros amanhã. Ganhe o torneio e estará com um pé na porta. Mas primeiro, cuide do seu pescoço, certo?"
+    },
+    {
+        "Sr": 14,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "determined",
+        "Dialogue": "Mano Jimmy, vou ganhar o torneio de amanhã! Será meu caminho de entrada. Vencer só aumentará ainda mais minha reputação. Então estaremos prontos!"
+    },
+    {
+        "Sr": 14,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "nodding, encouraging",
+        "Dialogue": "Então tenha uma boa noite de sono. Você precisa fazer sua melhor jogada, entendeu? E ouça, aqui está minha pistola. É uma 9mm, caso as coisas deem errado amanhã."
+    },
+    {
+        "Sr": 14,
+        "Cutscene/In-Game": null,
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "A noite está prestes a terminar, mas para Raghu os jogos já começaram. O amanhã, poderá o levar à vitória ou poderá arrancar tudo da palma da sua mão. Por qual caminho o destino o abençoará? Só o amanhã dirá."
+    },
+    {
+        "Sr": 15,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Raghu",
+        "Action": "in drunken stupor",
+        "Dialogue": "Já bebi demais essa noite. Eu deveria dormir um pouco."
+    },
+    {
+        "Sr": 16,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Raghu",
+        "Action": "hungover",
+        "Dialogue": "Eu deveria ir ao clube dos jogos. O torneio vai começar em breve."
+    },
+    {
+        "Sr": 17,
+        "Cutscene/In-Game": "Cutscene (with QTEs)",
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Os jogos de tabuleiro clandestinos eram agora um campo de batalha para Raghu. Cada tentativa era um ataque e cada jogada o aproximava de seu destino. Todos os adversários tentaram em vão, mas Raghu estava agora à beira da vitória - a tão esperada final."
+    },
+    {
+        "Sr": 18,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Carrom Club Goon 1",
+        "Action": "stepping up with a sneer",
+        "Dialogue": "E ae Raghu! Fazendo grandes movimentos, né? Viemos colocar você no seu lugar, bastardo! Seu jogo termina agora!"
+    },
+    {
+        "Sr": 18,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "taking a cigarette drag, cool as ice",
+        "Dialogue": "Pare de desperdiçar meu tempo, seu idiota. Eu lido com mosquitos como você no almoço. Posso ver que você trouxe um bando de covardes junto. Mais um passo e mostrarei o seu lugar!"
+    },
+    {
+        "Sr": 19,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Carrom Club Goon 1",
+        "Action": "taunts Raghu aggresively",
+        "Dialogue": "Mate o bastardo!"
+    },
+    {
+        "Sr": 19,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": "Vamos acabar com você!"
+    },
+    {
+        "Sr": 19,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": null,
+        "Dialogue": "Você vai morrer!"
+    },
+    {
+        "Sr": 19,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": "kills Raghu",
+        "Dialogue": "Mate o filho da puta!"
+    },
+    {
+        "Sr": 20,
+        "Cutscene/In-Game": "Cutscene  (w/ Choice)",
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Para Raghu, isso foi apenas uma pequena briga. A verdadeira guerra estava prestes a começar. Os capangas foram tratados da maneira devida, mas com o que estava a sua frente, perder poderia ser uma questão de vida ou morte."
+    },
+    {
+        "Sr": 20,
+        "Cutscene/In-Game": null,
+        "Speaker": "Pathan",
+        "Action": "Voiceover",
+        "Dialogue": "É o Pathan aqui. Certamente você já ouviu falar de mim. Pensou que poderia chegar à vitória facilmente? Você vai jogar a partida no torneio do Raheem Khan, entendeu?"
+    },
+    {
+        "Sr": 20,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "on the phone",
+        "Dialogue": "O quê? Mas não vim aqui para perder."
+    },
+    {
+        "Sr": 20,
+        "Cutscene/In-Game": null,
+        "Speaker": "Pathan",
+        "Action": "Voiceover",
+        "Dialogue": "Se você quiser permanecer vivo, você entregará a partida. Você não decidirá o destino do jogo -  Pathan decidirá."
+    },
+    {
+        "Sr": 21,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Os homens de Pathan partiram com o vencedor, mas deixaram chamas de fogo dentro de Raghu. A derrota era apenas um meio para atingir um fim e o jogo era agora uma questão de vida ou morte."
+    },
+    {
+        "Sr": 22,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Raghu",
+        "Action": "on the phone",
+        "Dialogue": "Fala Jimmy, qual é a boa? Parece uma grande jogada, dada a hora."
+    },
+    {
+        "Sr": 22,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Voiceover",
+        "Dialogue": "Sim mano, é a mansão de Sethiya. Sua família está fora da cidade, então ele tem alguns guarda-costas protegendo a mansão. Há muito item roubado lá dentro pra saquearmos silenciosamente."
+    },
+    {
+        "Sr": 22,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Voiceover",
+        "Dialogue": "Primeiro, você lida com os guarda-costas. Então você limpa todo o saque do armário. O resto deixa comigo, entendeu?"
+    },
+    {
+        "Sr": 22,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "on the phone",
+        "Dialogue": "“Você acabou se tornando um cérebro, hein Jimmy? Não se preocupe mano, ficarei quieto como \num rato.\""
+    },
+    {
+        "Sr": 23,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Raghu",
+        "Action": "relieved, to himself",
+        "Dialogue": "Essa foi por pouco! Eu deveria ir encontrar Reshma no Bar da Jalwa. Já faz um tempo desde a última vez que a vi."
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Ramvilas Tawde",
+        "Action": "jealously complains to his goon",
+        "Dialogue": "Como é que um idiota como ele consegue uma garota assim?"
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": null,
+        "Speaker": "Reshma",
+        "Action": "reacts to Raghu tossing cash and dancing with her",
+        "Dialogue": "De onde você tirou esse dinheiro, Raghu? Você ganhou na loteria?"
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "while dancing with Reshma",
+        "Dialogue": "Não se estresse com isso, Reshma. Venha comigo, vamos nos divertir esta noite."
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": null,
+        "Speaker": "Ramvilas Tawde",
+        "Action": "strides over fist clenched",
+        "Dialogue": "Raghu! Que merda é essa? Este bar fica na minha área e você vai se comportar como eu quiser!"
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "continues dancing, unbothered",
+        "Dialogue": "Tome um comprimido para relaxar, Ramvilas mandão! Estou com vontade de me divertir. Não seja \num estraga prazeres."
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": null,
+        "Speaker": "Ramvilas Tawde",
+        "Action": "threatens Raghu",
+        "Dialogue": "Você não entende? Este é o meu lugar e não há espaço aqui para alguém como você. Agora saia do meu bar!"
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "grinning sarcastically",
+        "Dialogue": "Ramvilas mandão, você vai se lembrar disso! Não será tão fácil me expulsar. Vamos ver quem remove quem!"
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": null,
+        "Speaker": "Ramvilas Tawde",
+        "Action": "signals his men to throw out Raghu",
+        "Dialogue": "O bastardo tem uma língua comprida. Jogue-o pra fora, agora!"
+    },
+    {
+        "Sr": 24,
+        "Cutscene/In-Game": null,
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Os bares de dança costumam ser reservados para a diversão. Mas quando os egos colidem, as festividades podem em breve tomar o rumo errado. E foi exatamente o que aconteceu naquela noite."
+    },
+    {
+        "Sr": 25,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Raghu",
+        "Action": "inner monologue",
+        "Dialogue": "Estou cansado. Eu deveria ir para casa e dormir um pouco."
+    },
+    {
+        "Sr": 26,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Jimmy",
+        "Action": "Voiceover (phone call)",
+        "Dialogue": "Mano Raghu, surgiu algo urgente. Preciso que você roube alguns produtos importados da loja de eletrônicos. Enviando a localização pra você. Melhor se apressar!"
+    },
+    {
+        "Sr": 27,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Jimmy",
+        "Action": "Voiceover (phone call)",
+        "Dialogue": "Você pegou as mercadorias? É sirene de polícia que eu ouço?"
+    },
+    {
+        "Sr": 27,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "on the phone",
+        "Dialogue": "Sim mano, o resultado foi um sucesso. Eu vou lidar com a polícia, não se preocupe com isso."
+    },
+    {
+        "Sr": 28,
+        "Cutscene/In-Game": "In-Game",
+        "Speaker": "Jimmy",
+        "Action": "Voiceover (phone call)",
+        "Dialogue": "Você escapou da polícia?"
+    },
+    {
+        "Sr": 28,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "on the phone",
+        "Dialogue": "Sim mano, os policiais ficaram pra trás."
+    },
+    {
+        "Sr": 28,
+        "Cutscene/In-Game": null,
+        "Speaker": "Jimmy",
+        "Action": "Voiceover (phone call)",
+        "Dialogue": "Excelente! Agora estacione o carro na garagem do Tony. Tem uma surpresa esperando por você."
+    },
+    {
+        "Sr": 29,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Em meio ao caos da noite, Raghu concluiu o trabalho. A polícia estava atrás dele, mas o nosso homem estava sempre um passo à frente. Porém, a noite ainda não havia terminado e uma nova história estava prestes a se desenrolar."
+    },
+    {
+        "Sr": 29,
+        "Cutscene/In-Game": null,
+        "Speaker": "Ashok Deshpande",
+        "Action": "talks to Raghu with a slow grin",
+        "Dialogue": "Então você é Raghu, hein? Ouvi dizer que você era inteligente, mas tive que ver por mim mesmo como você joga. Cada canto desta cidade está na palma da minha mão, e você... é apenas um peão em um grande tabuleiro de xadrez. Vamos ver se você merece mais ou não."
+    },
+    {
+        "Sr": 29,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "smirking, unfazed",
+        "Dialogue": "Senhor Deshpande, sou feito de outro tecido. Diga-me o que fazer e eu cuidarei para que seja feito. Veja por si mesmo como me preparei pra coisas maiores."
+    },
+    {
+        "Sr": 29,
+        "Cutscene/In-Game": null,
+        "Speaker": "Ashok Deshpande",
+        "Action": "lowers his voice",
+        "Dialogue": "Oh sério? Então ouça. Vá até a fonte Flora ao meio-dia e encontre meu contato lá. Pegue a pasta dele e entregue-a no Bar Blue Arch. Qualquer erro e o jogo terminará pra você no mesmo momento."
+    },
+    {
+        "Sr": 29,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "grinning wider",
+        "Dialogue": "As mercadorias estarão seguras senhor Deshpande. E o trabalho será feito, você tem minha palavra. Não se preocupe com isso."
+    },
+    {
+        "Sr": 29,
+        "Cutscene/In-Game": null,
+        "Speaker": "Ashok Deshpande",
+        "Action": "raises an eyebrow",
+        "Dialogue": "Olhando pra sua autoconfiança, posso ver que você está ansioso pra avançar para coisas maiores. Mas você ainda tem muito que aprender. Lembre-se para quem você trabalha e tudo ficará bem. Agora vá em frente."
+    },
+    {
+        "Sr": 30,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Ashok Deshpande",
+        "Action": "Voiceover (phone call)",
+        "Dialogue": "O trabalho foi bem realizado, mas isso foi apenas uma prévia do que está por vir. Você terá mais uma oportunidade de me impressionar com uma demonstração de força. Encontre-me em Nariman Point."
+    },
+    {
+        "Sr": 30,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "on the phone",
+        "Dialogue": "Senhor Deshpande, quanto maiores forem as apostas, maior será a diversão. Vejo você em\nNariman Point."
+    },
+    {
+        "Sr": 31,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Ashok Deshpande",
+        "Action": "tasks Raghu authoritatively",
+        "Dialogue": "Tenho uma grande tarefa pra você, Raghu. O jogo precisa terminar para Ramvilas Tawde. Amanhã à tarde ele estará em sua fábrica têxtil. Acabe com a história dele aí."
+    },
+    {
+        "Sr": 31,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "smirking slightly",
+        "Dialogue": "Senhor Deshpande, assim que o trabalho estiver em minhas mãos, cuidarei para que seja feito."
+    },
+    {
+        "Sr": 31,
+        "Cutscene/In-Game": null,
+        "Speaker": "Ashok Deshpande",
+        "Action": "leans in, voice dropping",
+        "Dialogue": "Lembre-se, Raghu. A fábrica fica na área de Tawde. Se você perder, ninguém se lembrará de você. A vitória e o destino estarão a seu favor."
+    },
+    {
+        "Sr": 31,
+        "Cutscene/In-Game": null,
+        "Speaker": null,
+        "Action": "gives cash bundle to Raghu",
+        "Dialogue": "E ouça, você vai precisar disso. Vá à loja de Powale em Kalbadevi amanhã de manhã. Circunstâncias especiais exigem armas especiais. Ele fará o que for necessário."
+    },
+    {
+        "Sr": 31,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "accepts the cash bundle",
+        "Dialogue": "Obrigado senhor Deshpande. Considere a ação realizada."
+    },
+    {
+        "Sr": 31,
+        "Cutscene/In-Game": null,
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Nesta cidade as decisões são tomadas rapidamente. Um passo errado e seu nome estará\njogado na terra."
+    },
+    {
+        "Sr": 32,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Raghu",
+        "Action": "upon entering the gun shop",
+        "Dialogue": "O senhor Ashok Deshpande me enviou."
+    },
+    {
+        "Sr": 32,
+        "Cutscene/In-Game": null,
+        "Speaker": "Powale (Arms Dealer)",
+        "Action": "acknowledges Raghu",
+        "Dialogue": "Você veio ao lugar certo."
+    },
+    {
+        "Sr": 33,
+        "Cutscene/In-Game": "Cutscene",
+        "Speaker": "Ramvilas Tawde",
+        "Action": "trembling, steps back",
+        "Dialogue": "Chefe Raghu, eu estava enganado. De agora em diante você manda em mim. Por favor, me dê uma chance. Me perdoe."
+    },
+    {
+        "Sr": 33,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "narrows his eyes on Tawde",
+        "Dialogue": "Agora esta cidade ouvirá apenas um chefe, e esse chefe sou eu. Seu tempo acabou, Tawde. Minha palavra basta."
+    },
+    {
+        "Sr": 34,
+        "Cutscene/In-Game": "Cutscene (w/  QTEs)",
+        "Speaker": "Ramvilas Tawde",
+        "Action": "pleading to Raghu",
+        "Dialogue": "Chefe Raghu… foi um erro. Apenas um erro. Por favor, ouça… continuarei sendo seu cachorro para o resto da vida. Por favor, me perdoe... só desta vez!"
+    },
+    {
+        "Sr": 34,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "without a flicker of emotion",
+        "Dialogue": "Um erro? Um cachorro como você comete erros a cada momento que passa, e hoje chegou a hora de acertar as contas da sua vida. Você selou seu próprio destino, agora só resta um caminho a seguir: o jogo acabou - game over."
+    },
+    {
+        "Sr": 34,
+        "Cutscene/In-Game": null,
+        "Speaker": "Ramvilas Tawde",
+        "Action": "loses his mind",
+        "Dialogue": "Não! Não, chefe! Pegue o que quiser, mas por favor me dê uma última chance. Deixe-me vivo, apenas uma vez! Vou beijar seus pés, apenas me deixe vivo, chefe!"
+    },
+    {
+        "Sr": 34,
+        "Cutscene/In-Game": null,
+        "Speaker": "Raghu",
+        "Action": "smirking, but deadly serious",
+        "Dialogue": "Não adianta deixar uma cobra como você viva. Seu direito de viver termina agora. O jogo termina hoje pra você. A morte é o seu castigo e este é o seu destino."
+    },
+    {
+        "Sr": 34,
+        "Cutscene/In-Game": null,
+        "Speaker": "Narrator",
+        "Action": null,
+        "Dialogue": "Neste mundo, existe apenas uma realidade: matar ou ser morto. Hoje, Tawde escreveu a última página do livro de sua vida, e Raghu... agora se tornou o herói deste jogo. Mas isso foi apenas o começo. A cidade está agora sob o controle de Raghu, e o que virá a seguir, está na palma de suas mãos."
+    }
+]
+}
